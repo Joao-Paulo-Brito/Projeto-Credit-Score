@@ -5,7 +5,7 @@ de pagar suas dívidas. Para isso, foram organizadas 5 perguntas para definir qu
 e como esses aspectos podem ser explicados.
 
 <p align="center">
-  <img src="img/credit-score" width="80"/>
+  <img src="img/credit-score.png" width="600"/>
 </p>
 
 ## 📌 Tecnologias utilizadas:
