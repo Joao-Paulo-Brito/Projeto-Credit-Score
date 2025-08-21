@@ -82,16 +82,14 @@ De acordo com as informações do criador, esse dataset possui uma amostra de in
       <img src="graphics/Matriz-Confusao-RF.png" width="600">
     </p>
 
-* **Análise da importância das features**: Para verificar o peso das variáveis na previsão, é preciso analisar a importância das features(x) do modelo, ou **feature importance**, que foi feita nos dois modelos usados no projeto.
+* **Análise da importância das features**: Para verificar o peso das variáveis na previsão, é preciso analisar a importância das features(x) do modelo, ou **feature importance**, que foi feita nos dois modelos usados no projeto:
   - Modelo Naive Bayes:
     <p>
       <img src="graphics/importância-das-features-NB.png" width="600">
     </p>
     Para verificar a importância das features do modelo Naive Bayes, que não possui uma função específica para essa análise, foi usada uma função chamada de "Permutation importance", que avalia a importância de cada variável no modelo treinado, e o resultado dessa análise de importância ficou razoavelmente distribuido entre as variáveis, sendo as variáveis com maior peso sendo relacioandas ao tipo de moradia.
 
-<br>
-
-   - Modelo Random Forest:
+  - Modelo Random Forest:
     <p>
       <img src="graphics/importância-das-features-RF.png" width="600">
     </p>
